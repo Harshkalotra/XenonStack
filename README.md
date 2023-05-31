@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+Creating a mobile purchasing website!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project implements a web application with three main pages: Login, Registration, and Contact Us. The purpose of this application is to allow users to register, login, and contact the website administrators.
 
-## Available Scripts
+The name of this Website is PhonePlanet which is bascially a Mobile purchasing website.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Technologies Used
+Front-end: HTML, CSS, JavaScript
+Back-end: Node.js, Express.js
+Database: Xampp!
+[Screenshot 2023-05-31 220034](https://github.com/Harshkalotra/XenonStack/assets/135109430/cfbefdec-362e-43cf-b0a8-009fd2da6db8)
+![Screenshot 2023-05-31 220217](https://github.com/Harshkalotra/XenonStack/assets/135109430/c6a093a3-04e7-4c38-86cf-7ccf9805c056)
+![Screenshot 2023-05-31 220239](https://github.com/Harshkalotra/XenonStack/assets/135109430/49f0c9c5-df9d-4600-b73d-bedd463f0344)
+![Screenshot 2023-05-31 220258](https://github.com/Harshkalotra/XenonStack/assets/135109430/fddda34d-fced-4c14-959f-c79e3430e2fd)
